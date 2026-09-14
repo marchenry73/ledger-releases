@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7.0",
+  "versionCode": 8,
+  "versionName": "0.8.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 30212518,
+  "sizeBytes": 30215662,
   "releasedOn": "2026-09-14",
-  "notes": "Ledger 0.7.0"
+  "notes": "Fixes the budget counting loans, investments and property as money you could assign · Money already in an account when you add it can now be budgeted · Alerts for bills, budgets, balances and goals · Search across everything from the header"
 }
