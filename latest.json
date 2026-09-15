@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.10.0",
+  "versionCode": 11,
+  "versionName": "0.11.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 30226474,
+  "sizeBytes": 30226794,
   "releasedOn": "2026-09-15",
-  "notes": "Undoing an import no longer stops you importing that file again"
+  "notes": "A category you have been saving into is no longer reported as overspent · Budget alerts and the home screen now measure against what a category actually holds"
 }
