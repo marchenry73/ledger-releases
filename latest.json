@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9.0",
+  "versionCode": 10,
+  "versionName": "0.10.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 30223438,
+  "sizeBytes": 30226474,
   "releasedOn": "2026-09-15",
-  "notes": "Bank files that put the amount and its direction in separate columns now import correctly · Deleting one side of a transfer removes both · The budget ignores transfers and excluded transactions · Splits count under the categories you chose · Rules keep text exactly as typed"
+  "notes": "Undoing an import no longer stops you importing that file again"
 }
