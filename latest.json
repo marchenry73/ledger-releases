@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.14.0",
+  "versionCode": 15,
+  "versionName": "0.15.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 31868455,
+  "sizeBytes": 32098823,
   "releasedOn": "2026-09-17",
-  "notes": "Fixes Home, Activity, Reports, Cash flow and six other screens that showed an error instead of their content · Chart colours stay distinct for colour-blind readers"
+  "notes": "A new look throughout: real charts, category icons, and budgets grouped into fixed, flexible and non-monthly · Search works again — one word like \"coffee\" found nothing before · Ready to assign no longer counts income as already assigned"
 }
