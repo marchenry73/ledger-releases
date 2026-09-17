@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.13.0",
+  "versionCode": 14,
+  "versionName": "0.14.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 30229126,
-  "releasedOn": "2026-09-16",
-  "notes": "Tapping a category now shows the split transactions that make it up · Register totals count only the part belonging to the category you filtered"
+  "sizeBytes": 31868455,
+  "releasedOn": "2026-09-17",
+  "notes": "Fixes Home, Activity, Reports, Cash flow and six other screens that showed an error instead of their content · Chart colours stay distinct for colour-blind readers"
 }
