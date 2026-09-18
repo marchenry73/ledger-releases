@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "0.15.0",
+  "versionCode": 16,
+  "versionName": "0.16.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 32098823,
-  "releasedOn": "2026-09-17",
-  "notes": "A new look throughout: real charts, category icons, and budgets grouped into fixed, flexible and non-monthly · Search works again — one word like \"coffee\" found nothing before · Ready to assign no longer counts income as already assigned"
+  "sizeBytes": 32104691,
+  "releasedOn": "2026-09-18",
+  "notes": "A paid bill no longer shows twice on the calendar · A CSV statement now imports into the account you picked, not another one · Reports over a long range no longer quietly leave out your oldest transactions · Searching a month like \"december\" finds the one that happened"
 }
