@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.18.0",
+  "versionCode": 19,
+  "versionName": "0.19.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33005735,
+  "sizeBytes": 33041459,
   "releasedOn": "2026-11-21",
-  "notes": "Bills show paid, overdue or due soon, and flag price increases · Budget shows last month's spending and suggests an amount · Reconcile an account with a statement; review duplicates · Paycheck forecast, savings buckets, your own debt payoff order"
+  "notes": "Personal budgets alongside the household budget, shared or private · Attach receipt photos and PDFs to transactions · Medical debt account type"
 }
