@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.17.0",
+  "versionCode": 18,
+  "versionName": "0.18.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 32950043,
+  "sizeBytes": 33005735,
   "releasedOn": "2026-11-21",
-  "notes": "New Planning tab: emergency fund, uneven income, big purchases, credit and tax time · Share the ledger with your household: invite people and keep accounts private · Household members, and who owns each account · A sidebar layout on wide screens"
+  "notes": "Bills show paid, overdue or due soon, and flag price increases · Budget shows last month's spending and suggests an amount · Reconcile an account with a statement; review duplicates · Paycheck forecast, savings buckets, your own debt payoff order"
 }
