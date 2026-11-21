@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "0.16.0",
+  "versionCode": 17,
+  "versionName": "0.17.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 32104691,
-  "releasedOn": "2026-09-18",
-  "notes": "A paid bill no longer shows twice on the calendar · A CSV statement now imports into the account you picked, not another one · Reports over a long range no longer quietly leave out your oldest transactions · Searching a month like \"december\" finds the one that happened"
+  "sizeBytes": 32950043,
+  "releasedOn": "2026-11-21",
+  "notes": "New Planning tab: emergency fund, uneven income, big purchases, credit and tax time · Share the ledger with your household: invite people and keep accounts private · Household members, and who owns each account · A sidebar layout on wide screens"
 }
