@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20.0",
+  "versionCode": 21,
+  "versionName": "0.21.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33089979,
+  "sizeBytes": 33194663,
   "releasedOn": "2026-11-22",
-  "notes": "Forecast up to 10 years, with what-if changes like a raise or a job loss · Retirement projection, and contributions and dividends this year · Set retirement account types (401(k), Roth IRA, HSA) and limits"
+  "notes": "Business accounts kept apart from household money, with profit and loss · Estimated 2026 federal tax in Tax time, from the IRS's published figures · New reports: debt history, budget performance, household vs individual · Save any report as a PDF"
 }
