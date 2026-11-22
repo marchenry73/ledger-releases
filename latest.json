@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.21.0",
+  "versionCode": 22,
+  "versionName": "0.22.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33194663,
+  "sizeBytes": 33292567,
   "releasedOn": "2026-11-22",
-  "notes": "Business accounts kept apart from household money, with profit and loss · Estimated 2026 federal tax in Tax time, from the IRS's published figures · New reports: debt history, budget performance, household vs individual · Save any report as a PDF"
+  "notes": "Ask Ledger: answers about your money, worked out on your phone · Learn: nine short lessons and six calculators · Calendar day view, with debt due days, tax dates and milestones"
 }
