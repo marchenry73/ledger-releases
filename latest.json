@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "0.19.0",
+  "versionCode": 20,
+  "versionName": "0.20.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33041459,
-  "releasedOn": "2026-11-21",
-  "notes": "Personal budgets alongside the household budget, shared or private · Attach receipt photos and PDFs to transactions · Medical debt account type"
+  "sizeBytes": 33089979,
+  "releasedOn": "2026-11-22",
+  "notes": "Forecast up to 10 years, with what-if changes like a raise or a job loss · Retirement projection, and contributions and dividends this year · Set retirement account types (401(k), Roth IRA, HSA) and limits"
 }
