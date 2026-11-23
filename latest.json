@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.23.0",
+  "versionCode": 24,
+  "versionName": "0.24.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33298039,
+  "sizeBytes": 33315283,
   "releasedOn": "2026-11-23",
-  "notes": "Easier to read and to use with a screen reader · Wider layouts on a computer screen · Budget opens faster on a long history · Household sharing: privacy fixes"
+  "notes": "Tell Ledger which payment paid a bill, even late or a different amount · Bill payment choice on every transaction · Sample data, restore and erase now work in a browser"
 }
