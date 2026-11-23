@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24.0",
+  "versionCode": 25,
+  "versionName": "0.24.1",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33315283,
+  "sizeBytes": 33316439,
   "releasedOn": "2026-11-23",
-  "notes": "Tell Ledger which payment paid a bill, even late or a different amount · Bill payment choice on every transaction · Sample data, restore and erase now work in a browser"
+  "notes": "Detected bills no longer offers ones you already have"
 }
