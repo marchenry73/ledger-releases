@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.22.0",
+  "versionCode": 23,
+  "versionName": "0.23.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33292567,
-  "releasedOn": "2026-11-22",
-  "notes": "Ask Ledger: answers about your money, worked out on your phone · Learn: nine short lessons and six calculators · Calendar day view, with debt due days, tax dates and milestones"
+  "sizeBytes": 33298039,
+  "releasedOn": "2026-11-23",
+  "notes": "Easier to read and to use with a screen reader · Wider layouts on a computer screen · Budget opens faster on a long history · Household sharing: privacy fixes"
 }
