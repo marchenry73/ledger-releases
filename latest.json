@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.25.0",
+  "versionCode": 29,
+  "versionName": "0.26.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33325611,
+  "sizeBytes": 33331999,
   "releasedOn": "2026-11-24",
-  "notes": "Edit a transaction: fix its amount, date, payee or account · Add a transaction on any date, not just today"
+  "notes": "Imported and new transactions file themselves by your rules and past choices · Import asks which account the bank file is for · Splits show every category and take plain amounts · Import, backup and report CSV now work in a browser"
 }
