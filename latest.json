@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.26.0",
+  "versionCode": 30,
+  "versionName": "0.26.1",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33331999,
+  "sizeBytes": 33334383,
   "releasedOn": "2026-11-24",
-  "notes": "Imported and new transactions file themselves by your rules and past choices · Import asks which account the bank file is for · Splits show every category and take plain amounts · Import, backup and report CSV now work in a browser"
+  "notes": "Older transactions now have their merchant, so merchant rules and learning reach them"
 }
