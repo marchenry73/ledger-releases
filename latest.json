@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.24.3",
+  "versionCode": 28,
+  "versionName": "0.25.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33318599,
+  "sizeBytes": 33325611,
   "releasedOn": "2026-11-24",
-  "notes": "Budget vs actual shows what you budgeted, matching the Budget screen · Goal pace counts from your first contribution, not the day you made the goal · Net worth change over 1M, 3M... agrees on every screen · Calendar totals say Money out and Money in, which is what they count"
+  "notes": "Edit a transaction: fix its amount, date, payee or account · Add a transaction on any date, not just today"
 }
