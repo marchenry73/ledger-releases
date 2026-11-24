@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.24.1",
+  "versionCode": 26,
+  "versionName": "0.24.2",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33316439,
-  "releasedOn": "2026-11-23",
-  "notes": "Detected bills no longer offers ones you already have"
+  "sizeBytes": 33317555,
+  "releasedOn": "2026-11-24",
+  "notes": "Fixes the app refusing to start on a phone that has had Ledger since September. · Your data was never touched by this; it could not be reached, and now it can."
 }
