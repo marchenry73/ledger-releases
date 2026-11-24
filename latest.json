@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "0.26.1",
+  "versionCode": 31,
+  "versionName": "0.26.2",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33334383,
+  "sizeBytes": 33334435,
   "releasedOn": "2026-11-24",
-  "notes": "Older transactions now have their merchant, so merchant rules and learning reach them"
+  "notes": "A shop added on two phones before they sync keeps what it learned"
 }
