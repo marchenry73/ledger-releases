@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "0.34.0",
+  "versionCode": 40,
+  "versionName": "0.35.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33602319,
+  "sizeBytes": 33612839,
   "releasedOn": "2026-11-25",
-  "notes": "Update investment prices (crypto now; stocks once a quote key is set), with source and date · Leave out categories or accounts in Reports · An over-budget category shows the charges that took it over"
+  "notes": "Read a receipt photo: merchant, items, tax and total, checked against the charge · Fill the split editor from the receipt's items (you still press Save)"
 }
