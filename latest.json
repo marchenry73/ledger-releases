@@ -1,8 +1,8 @@
 {
-  "versionCode": 38,
-  "versionName": "0.33.0",
+  "versionCode": 39,
+  "versionName": "0.34.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33586715,
+  "sizeBytes": 33602319,
   "releasedOn": "2026-11-25",
-  "notes": "Documents: statements, tax forms, insurance and receipts in one searchable place · Subscriptions can remind you three days before they renew, to cancel in time"
+  "notes": "Update investment prices (crypto now; stocks once a quote key is set), with source and date · Leave out categories or accounts in Reports · An over-budget category shows the charges that took it over"
 }
