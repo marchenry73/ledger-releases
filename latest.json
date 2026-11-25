@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "0.37.0",
+  "versionCode": 43,
+  "versionName": "0.38.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33639859,
+  "sizeBytes": 33644091,
   "releasedOn": "2026-11-25",
-  "notes": "History on every transaction: what changed, from what to what, when, and by what (you, a bulk edit, a rule, an import or sync)"
+  "notes": "Home cards: make one wide, and pick the spending period (this month to this year) or 6/12 months of cash flow · Receipt reading now takes PDFs too"
 }
