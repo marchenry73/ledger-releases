@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "0.27.0",
+  "versionCode": 33,
+  "versionName": "0.28.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33395571,
-  "releasedOn": "2026-11-24",
-  "notes": "Subscriptions have their own section, totals and calendar mark · Bank connections (Plaid) ready; switch on once the keys are set · Ask AI: any money question, answered from your own numbers (optional)"
+  "sizeBytes": 33428919,
+  "releasedOn": "2026-11-25",
+  "notes": "A warmer, calmer look in light and dark; your Light/Dark choice now sticks · Cash flow shows where the money went, with a tap-through flow chart · Spending compared with last month, the 12-month average, last year · Treemap view in Reports; budget export to CSV; notes on accou..."
 }
