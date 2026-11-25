@@ -1,8 +1,8 @@
 {
-  "versionCode": 45,
-  "versionName": "0.40.0",
+  "versionCode": 46,
+  "versionName": "0.41.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33644891,
+  "sizeBytes": 33645775,
   "releasedOn": "2026-11-25",
-  "notes": "Reports: each bar wears its slice's colour · Trends: no \"more than a year ago\" before your records began · Clearer dates and labels on Goals, Recurring, Investments and Accounts"
+  "notes": "Cash flow: the income label no longer runs off the chart on a phone · Thousands commas and readable dates in Net worth, Financial health, the forecast, alerts and unusual charges"
 }
