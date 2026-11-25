@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "0.38.0",
+  "versionCode": 44,
+  "versionName": "0.39.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33644091,
+  "sizeBytes": 33643751,
   "releasedOn": "2026-11-25",
-  "notes": "Home cards: make one wide, and pick the spending period (this month to this year) or 6/12 months of cash flow · Receipt reading now takes PDFs too"
+  "notes": "Fix: an evening change in History showed tomorrow's date · Tidier Calendar and Budget headers"
 }
