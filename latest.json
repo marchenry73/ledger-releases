@@ -1,8 +1,8 @@
 {
-  "versionCode": 48,
-  "versionName": "0.43.0",
+  "versionCode": 49,
+  "versionName": "0.44.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33648979,
+  "sizeBytes": 33653435,
   "releasedOn": "2026-11-25",
-  "notes": "Recurring: a bill or income can now be deleted (it was pause only) · Goals: a goal can now be removed"
+  "notes": "Ledger now tells you when a new version is ready, as it opens and when you come back to it. Tap Update now, then confirm on Android's screen. Nothing downloads until you tap."
 }
