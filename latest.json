@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "0.32.0",
+  "versionCode": 38,
+  "versionName": "0.33.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33570975,
+  "sizeBytes": 33586715,
   "releasedOn": "2026-11-25",
-  "notes": "Connect Claude or ChatGPT to read your Ledger (read-only, revocable) · Get set up: a checklist on Home, every step optional · Worth a look: charges that stand out, with the reason · Calendar shows expected spendable cash on future days"
+  "notes": "Documents: statements, tax forms, insurance and receipts in one searchable place · Subscriptions can remind you three days before they renew, to cancel in time"
 }
