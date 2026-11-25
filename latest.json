@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "0.28.0",
+  "versionCode": 34,
+  "versionName": "0.29.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33428919,
+  "sizeBytes": 33463495,
   "releasedOn": "2026-11-25",
-  "notes": "A warmer, calmer look in light and dark; your Light/Dark choice now sticks · Cash flow shows where the money went, with a tap-through flow chart · Spending compared with last month, the 12-month average, last year · Treemap view in Reports; budget export to CSV; notes on accou..."
+  "notes": "This week on Home: spending, biggest charges, bills ahead, alerts · Financial health: six measures, each explained (More) · Long-term forecast with life events and a range of outcomes (More) · Goals show Ahead, On track or At risk, and why"
 }
