@@ -1,8 +1,8 @@
 {
-  "versionCode": 44,
-  "versionName": "0.39.0",
+  "versionCode": 45,
+  "versionName": "0.40.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33643751,
+  "sizeBytes": 33644891,
   "releasedOn": "2026-11-25",
-  "notes": "Fix: an evening change in History showed tomorrow's date · Tidier Calendar and Budget headers"
+  "notes": "Reports: each bar wears its slice's colour · Trends: no \"more than a year ago\" before your records began · Clearer dates and labels on Goals, Recurring, Investments and Accounts"
 }
