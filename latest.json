@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "0.42.0",
+  "versionCode": 48,
+  "versionName": "0.43.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33645683,
+  "sizeBytes": 33648979,
   "releasedOn": "2026-11-25",
-  "notes": "Readable dates in report PDFs, the tax summary, the date filter chip and the Settings footer"
+  "notes": "Recurring: a bill or income can now be deleted (it was pause only) · Goals: a goal can now be removed"
 }
