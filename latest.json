@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "0.30.0",
+  "versionCode": 36,
+  "versionName": "0.31.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33518683,
+  "sizeBytes": 33549591,
   "releasedOn": "2026-11-25",
-  "notes": "Comment on a transaction; your household sees it · Leave out categories, groups, accounts, tags or merchants in Transactions · Re-importing a bank file updates what the bank changed, never your edits · Goals from several accounts; equity grants; why net worth changed"
+  "notes": "Customize Home: show, hide and reorder cards · Milestones: savings, debt and net worth progress, dated from your records · Your own account groups on the Accounts screen · Home and vehicle values: enter estimates, see change since purchase"
 }
