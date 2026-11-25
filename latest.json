@@ -1,8 +1,8 @@
 {
-  "versionCode": 40,
-  "versionName": "0.35.0",
+  "versionCode": 41,
+  "versionName": "0.36.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33612839,
+  "sizeBytes": 33628399,
   "releasedOn": "2026-11-25",
-  "notes": "Read a receipt photo: merchant, items, tax and total, checked against the charge · Fill the split editor from the receipt's items (you still press Save)"
+  "notes": "Coinbase (read-only): balances appear as crypto holdings, once the Coinbase keys are added · Web version: sign-in and server screens no longer hang in a browser"
 }
