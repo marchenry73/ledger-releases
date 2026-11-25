@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "0.29.0",
+  "versionCode": 35,
+  "versionName": "0.30.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33463495,
+  "sizeBytes": 33518683,
   "releasedOn": "2026-11-25",
-  "notes": "This week on Home: spending, biggest charges, bills ahead, alerts · Financial health: six measures, each explained (More) · Long-term forecast with life events and a range of outcomes (More) · Goals show Ahead, On track or At risk, and why"
+  "notes": "Comment on a transaction; your household sees it · Leave out categories, groups, accounts, tags or merchants in Transactions · Re-importing a bank file updates what the bank changed, never your edits · Goals from several accounts; equity grants; why net worth changed"
 }
