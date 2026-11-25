@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "0.36.0",
+  "versionCode": 42,
+  "versionName": "0.37.0",
   "apkUrl": "https://github.com/marchenry73/ledger-releases/releases/latest/download/ledger.apk",
-  "sizeBytes": 33628399,
+  "sizeBytes": 33639859,
   "releasedOn": "2026-11-25",
-  "notes": "Coinbase (read-only): balances appear as crypto holdings, once the Coinbase keys are added · Web version: sign-in and server screens no longer hang in a browser"
+  "notes": "History on every transaction: what changed, from what to what, when, and by what (you, a bulk edit, a rule, an import or sync)"
 }
